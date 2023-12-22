@@ -1,6 +1,8 @@
 <?php 
 
-require_once __DIR__ . '/../Class/Calculadora.class.php';
+
+use exercicios\semPhpunit\calculadora\Class\Calculadora;
+
 
 
 class TestCalculadora {

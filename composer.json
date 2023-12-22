@@ -1,0 +1,17 @@
+{
+    "name": "maykon/tdd",
+    "require": {
+        "phpunit/phpunit": "^10.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "": ["exercicios/"]
+        }
+    },
+    "authors": [
+        {
+            "name": "maykon-jds",
+            "email": "maykondias2001@gmail.com"
+        }
+    ]
+}
