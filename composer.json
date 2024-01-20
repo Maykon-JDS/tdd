@@ -5,7 +5,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Exercicios\\": ["./exercicios/"]
+            "Carrinho\\": ["./exercicios/carrinho-de-compras/class"]
         }
     },
     "authors": [
