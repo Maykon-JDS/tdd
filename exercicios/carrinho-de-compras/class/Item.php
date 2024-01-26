@@ -43,6 +43,9 @@ class Item {
 
     }
 
+    /**
+     * Retorna o nome do Item
+     */
     public function getNome() : string
     {
 
